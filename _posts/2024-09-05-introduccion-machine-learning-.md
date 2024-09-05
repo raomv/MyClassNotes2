@@ -20,9 +20,9 @@ Las redes neuronales se llaman así porque están inspiradas en la estructura y 
 
 Un modelo simplificado de esto es el perceptrón, una unidad básica de una red neuronal que realiza cálculos con las entradas y aplica una función de activación para generar una salida. Con suficientes perceptrones interconectados en capas (entrada, ocultas y salida), estas redes pueden realizar tareas complejas como el reconocimiento de patrones en imágenes o la predicción de resultados.
 
-![Image](assets/img/2024-09-05-introduccion-machine-learning-1.jpg)
+![Image](assets/img/_posts/2024-09-05-introduccion-machine-learning-1.jpg)
 
-![Image](assets/img/2024-09-05-introduccion-machine-learning-2.jpg)
+![Image](assets/img/_posts/2024-09-05-introduccion-machine-learning-2.jpg)
 
 ## ¿Como se entrenan las redes neuronales?
 
