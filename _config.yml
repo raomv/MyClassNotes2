@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "MyLectureNotes" # the subpath of your site, e.g. /blog
 url: "https://raomv.github.io/" # the base hostname & protocol for your site, e.g. https://USERNAME.github.io
 
 # Change to your lang - This doesn't translate the theme, it just defines the main language the content is written in.
@@ -7,9 +7,8 @@ lang: es-ES
 
 timezone: Europe/Madrid # Change to your timezone - https://kevinnovak.github.io/Time-Zone-Picker/
 
-title: Mis apuntes de Inteligencia Artificial
-tagline: 🎓 Cursando una máster en Inteligencia Artificial, aprendiendo sobre visión por computador y aprendizaje automático. 
-        🤖 Interesado por la implementación de la IA en la tecnología de defensa, así como los sistemas autónomos. 
+title: Raúl M.V
+tagline: Mis apuntes de Inteligencia Artificial 
 description: A Jekyll theme with sidebar for personal website and blog. 
 avatar: "assets/img/avatar/avatar.png" # The avatar on sidebar
 
@@ -19,7 +18,7 @@ github: raomv
 linkedin: raul-marti
 
 # Url for you account: Buy Me A Coffee, Ko-fi, Patreon, etc.
-donate:
+donate: 
 
 # License - eg: Copyright, CC BY-NC-SA 4.0, etc.
 license: MIT License
