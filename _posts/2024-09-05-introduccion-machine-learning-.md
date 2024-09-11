@@ -14,19 +14,15 @@ El concepto de "inteligencia artificial" fue acuñado por primera vez en 1956 po
 
 La inteligencia artificial (IA) tiene diferentes significados y percepciones desde las perspectivas pública y académica. El público y los medios muestran un gran entusiasmo por la "inteligencia artificial general", como C-3PO en la película Star Wars o el T-700 en Terminator. Esta máquina omnipotente tendría todo tipo de percepciones y racionalidad, pudiendo pensar de manera abstracta, comprender ideas complejas, planificar y resolver problemas tan rápidamente como los seres humanos. Sin embargo, actualmente, estamos en la fase de investigación de la "inteligencia artificial estrecha", una tecnología que puede realizar una tarea específica tan bien o mejor que los humanos.
 
-## Redes Neuronales Artificiales: ¿Cómo funciona la IA por dentro?
+## Redes Neuronales
 
 Las redes neuronales se llaman así porque están inspiradas en la estructura y funcionamiento de las neuronas biológicas. En nuestro cerebro, las neuronas reciben señales a través de sus dendritas, las procesan en el cuerpo celular y luego envían una respuesta a través del axón. Las redes neuronales artificiales imitan este proceso. Tienen nodos (neuronas) que reciben varias entradas, las procesan y generan una salida, similar a cómo una neurona biológica procesa señales eléctricas.
 
-En el corazón de una red neuronal está el perceptrón, un modelo matemático que simula cómo funcionan nuestras neuronas biológicas. Podemos imaginarlo como una red de neuronas artificiales, cada una recibiendo entradas y decidiendo si "disparar" o no, en función de la información que recibe. Imagina que el perceptrón tiene varias entradas (como diferentes características de una imagen o de un sonido), cada una de ellas con un "peso" asignado, que determina su importancia. Luego, se suman todas esas entradas ponderadas y se compara con un valor umbral. Si la suma supera ese umbral, el perceptrón "dispara" (emite una salida), de lo contrario no lo hace. Este proceso básico se puede representar con la fórmula:
+Un modelo simplificado de esto es el perceptrón, una unidad básica de una red neuronal que realiza cálculos con las entradas y aplica una función de activación para generar una salida. Con suficientes perceptrones interconectados en capas (entrada, ocultas y salida), estas redes pueden realizar tareas complejas como el reconocimiento de patrones en imágenes o la predicción de resultados.
 
-```latex
-a = 
-\begin{cases}
-0 & \text{si } \sum_{i=1}^{n} w_i x_i + b \leq 0 \\
-1 & \text{si } \sum_{i=1}^{n} w_i x_i + b > 0
-\end{cases}
-```
+![Image](assets\img\posts\2024-09-05-introduccion-machine-learning-1.jpg)
+
+![Image](assets\img\posts\2024-09-05-introduccion-machine-learning-2.jpg)
 
 \emph{This} is a \LaTeX\ file. 
 
