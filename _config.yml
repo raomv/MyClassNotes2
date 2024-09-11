@@ -41,7 +41,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-minifier
-
+  - jekyll-latex
 toc:
   min_level: 2
   max_level: 2
