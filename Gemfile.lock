@@ -95,7 +95,6 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-sitemap
   jekyll-toc
-  jekyll-latex
   rouge
 
 BUNDLED WITH
