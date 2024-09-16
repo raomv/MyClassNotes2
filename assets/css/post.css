@@ -16,14 +16,14 @@
 .post-banner img,
 .content-post img {
   border-radius: 0.5rem;
-  object-fit: cover;
+  object-fit: scale-down;
   object-position: 50% 50%;
 }
 
 .content-post a {
   color: var(--secondary-color);
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .footnotes {
