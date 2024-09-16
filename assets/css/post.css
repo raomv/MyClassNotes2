@@ -16,9 +16,8 @@
 .post-banner img,
 .content-post img {
   border-radius: 0.5rem;
-  object-fit: scale-down;
+  object-fit: contain;
   object-position: 50% 50%;
-  justify-content: center;
 }
 
 .content-post a {
